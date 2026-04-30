@@ -155,5 +155,5 @@ When applying these guidelines to a specific stack:
 - [ ] Generate or maintain a mock server that enforces the same constraints as the spec
 - [ ] Ensure test naming follows `{METHOD} {path} — {scenario}` convention
 - [ ] Group tests by API tag or resource
-- [ ] Generate a coverage report mapping tests back to spec endpoints
+- [ ] Generate a coverage report test-report.md mapping tests back to spec endpoints
 
